@@ -48,7 +48,7 @@ Hard-reloading triggers:
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/<your-username>/instagram-home-refresh.git
+   git clone https://github.com/procode293/instagram-home-refresh.git
    ```
 2. Open Google Chrome (or any Chromium browser like Brave, Edge, or Arc).
 3. Navigate to `chrome://extensions/`.
