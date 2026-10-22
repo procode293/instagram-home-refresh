@@ -1,0 +1,10 @@
+# Package archives
+*.zip
+*.crx
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
